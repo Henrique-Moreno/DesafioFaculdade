@@ -25,7 +25,7 @@ npm install</code></pre>
 
   <h3>3. Executando o Servidor Node.js</h3>
     <p>Para iniciar o servidor Node.js, execute o comando:</p>
-    <pre><code>npm start</code></pre>
+    <pre><code>npm run dev</code></pre>
     <p>O servidor estará rodando em <a href="http://localhost:3000">http://localhost:3001</a>.</p>
 
   <h2>Configurando o Projeto Next.js</h2>
